@@ -1,2 +1,2 @@
-# cuba-programy-a-data
+# programy-a-data
 :)
